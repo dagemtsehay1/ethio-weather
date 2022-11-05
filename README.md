@@ -1,6 +1,7 @@
 # Ethio Weather
 
 A weather app made with react
+live Demo [here](https://dagemtsehay1.github.io/ethio-weather/)
 
 ## Getting Start
 
