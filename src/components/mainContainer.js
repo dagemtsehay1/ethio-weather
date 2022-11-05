@@ -14,7 +14,7 @@ const MainContainer = () =>{
     const [data, setData] = useState([]);
     const [errorMsg, setErrorMsg] = useState("");
     const [location, setLocation] = useState("");
-    const API_KEY = "62a88d67cc4dc48d8587205287c8dd54";
+    const API_KEY = "XXXXXXXXXXXXXXXXXX";
 
     const handleSearch = ()=>{
         if(location.length == 0){
