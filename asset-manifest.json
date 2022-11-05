@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/ethio-weather/static/css/main.74a87508.css",
+    "main.js": "/ethio-weather/static/js/main.e9e5b4e5.js",
+    "static/media/background-dark.png": "/ethio-weather/static/media/background-dark.3a7e136478d44fd5f3e8.png",
+    "static/media/background.png": "/ethio-weather/static/media/background.9352eb23188daf1ddf24.png",
+    "static/media/rainy.png": "/ethio-weather/static/media/rainy.2f35b9356c548dec96ff.png",
+    "static/media/suny.png": "/ethio-weather/static/media/suny.84df039baf7ca7a54449.png",
+    "static/media/cloudy.png": "/ethio-weather/static/media/cloudy.3bc39dc0da6f77985775.png",
+    "index.html": "/ethio-weather/index.html",
+    "main.74a87508.css.map": "/ethio-weather/static/css/main.74a87508.css.map",
+    "main.e9e5b4e5.js.map": "/ethio-weather/static/js/main.e9e5b4e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74a87508.css",
+    "static/js/main.e9e5b4e5.js"
+  ]
+}
